@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "RodandoDLL/1.0.0": {
+        "dependencies": {
+          "TesteDLL": "1.0.0"
+        },
+        "runtime": {
+          "RodandoDLL.dll": {}
+        }
+      },
+      "TesteDLL/1.0.0": {
+        "runtime": {
+          "TesteDLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RodandoDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TesteDLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

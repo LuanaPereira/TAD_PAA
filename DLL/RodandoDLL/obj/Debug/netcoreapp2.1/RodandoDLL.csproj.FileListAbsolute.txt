@@ -1,0 +1,14 @@
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\bin\Debug\netcoreapp2.1\RodandoDLL.deps.json
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\bin\Debug\netcoreapp2.1\RodandoDLL.runtimeconfig.json
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\bin\Debug\netcoreapp2.1\RodandoDLL.runtimeconfig.dev.json
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\bin\Debug\netcoreapp2.1\RodandoDLL.dll
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\bin\Debug\netcoreapp2.1\RodandoDLL.pdb
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\bin\Debug\netcoreapp2.1\TesteDLL.dll
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\bin\Debug\netcoreapp2.1\TesteDLL.pdb
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\obj\Debug\netcoreapp2.1\RodandoDLL.csprojAssemblyReference.cache
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\obj\Debug\netcoreapp2.1\RodandoDLL.csproj.CoreCompileInputs.cache
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\obj\Debug\netcoreapp2.1\RodandoDLL.AssemblyInfoInputs.cache
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\obj\Debug\netcoreapp2.1\RodandoDLL.AssemblyInfo.cs
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\obj\Debug\netcoreapp2.1\RodandoDLL.csproj.CopyComplete
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\obj\Debug\netcoreapp2.1\RodandoDLL.dll
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\RodandoDLL\obj\Debug\netcoreapp2.1\RodandoDLL.pdb

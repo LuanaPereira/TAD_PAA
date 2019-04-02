@@ -1,0 +1,9 @@
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\TesteDLL\bin\Debug\netstandard2.0\TesteDLL.deps.json
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\TesteDLL\bin\Debug\netstandard2.0\TesteDLL.dll
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\TesteDLL\bin\Debug\netstandard2.0\TesteDLL.pdb
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\TesteDLL\obj\Debug\netstandard2.0\TesteDLL.csprojAssemblyReference.cache
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\TesteDLL\obj\Debug\netstandard2.0\TesteDLL.csproj.CoreCompileInputs.cache
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\TesteDLL\obj\Debug\netstandard2.0\TesteDLL.AssemblyInfoInputs.cache
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\TesteDLL\obj\Debug\netstandard2.0\TesteDLL.AssemblyInfo.cs
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\TesteDLL\obj\Debug\netstandard2.0\TesteDLL.dll
+C:\Users\luhpe\OneDrive\Área de Trabalho\DLL\TesteDLL\obj\Debug\netstandard2.0\TesteDLL.pdb
